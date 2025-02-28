@@ -1,0 +1,8 @@
+.meu_icone{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.meu_icone:hover{
+    color: crimson;
+}
